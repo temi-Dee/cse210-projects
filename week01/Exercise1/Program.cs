@@ -2,6 +2,8 @@ class Program
 {
     static void Main(string[] args)
     {
+
+        // ask for the user's name
         Console.WriteLine("what is your first name? ");
         string first = Console.ReadLine();
 
